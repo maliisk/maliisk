@@ -18,8 +18,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/isikmuhammedali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isikmuhammedali/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18540925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18540925" height="30" width="40" /></a>
-<a href="https://instagram.com/@21malii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@21malii" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ali̇ ışık" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ali̇ ışık" height="30" width="40" /></a>
+<a href="https://instagram.com/21malii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@21malii" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@malight0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ali̇ ışık" height="30" width="40" /></a>
 <a href="https://discord.gg/MaLight #0721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MaLight #0721" height="30" width="40" /></a>
 </p>
 
