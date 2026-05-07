@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Java-Spring-React**
+- 🌱 I'm working on it **Java-Spring-React**
 
 - 👨‍💻 All of my projects are available at [https://portfoliomali.netlify.app/](https://portfoliomali.netlify.app/)
 
