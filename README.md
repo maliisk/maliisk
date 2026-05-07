@@ -1,6 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Muhammed Ali</h1>
-<h3 align="center">Student at Firat University</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76115e6ea9ea871d51f77ce49900ac8a12752f556dd7&rid=giphy.gif&ct=g"
 
 
