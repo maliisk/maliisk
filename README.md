@@ -3,7 +3,7 @@
 <h3 align="center">I'm working on it Full-Stack</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76115e6ea9ea871d51f77ce49900ac8a12752f556dd7&rid=giphy.gif&ct=g"
 
-- All of my projects are available at [https://portfoliomali.netlify.app/](https://portfoliomali.netlify.app/)
+- All of my projects are available at [https://muhammedaliisik.com/](https://muhammedaliisik.com/)
 
 - How to reach me [isik.mali@outlook.com](isik.mali@outlook.com)
 
